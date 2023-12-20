@@ -1,6 +1,6 @@
 <template>
     <div>
-      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div class="mx-auto d-flex">
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
