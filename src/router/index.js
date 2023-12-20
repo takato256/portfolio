@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import BootstrapVue from 'bootstrap-vue'
 import Router from 'vue-router'
-import HelloWorld from '@/components/HelloWorld'
+import home from '@/components/home'
 import career from '@/components/career'
 import product from '@/components/product'
 import skill from '@/components/skill'
@@ -16,8 +16,8 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'HelloWorld',
-      component: HelloWorld
+      name: 'home',
+      component: home
     },
     {
       path: '/career',
