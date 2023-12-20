@@ -36,11 +36,11 @@
   }
 
   .social-links a {
-    margin: 0 10px; /* リンク間の余白（調整してください） */
+    margin: 0 10px;
   }
 
   .social-links img {
-    width: 30px; /* アイコンの幅（調整してください） */
-    height: 30px; /* アイコンの高さ（調整してください） */
+    width: 30px;
+    height: 30px;
   }
 </style>
