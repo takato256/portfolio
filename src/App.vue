@@ -1,9 +1,7 @@
 <template>
   <div id="app">
-    <myheader></myheader>
-    <img src="./assets/nakaya.png" width="300" height="300">
     <router-view/>
-    <button class="btn btn-primary">test</button>
+    <myheader></myheader>
   </div>
 </template>
 
