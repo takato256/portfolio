@@ -1,14 +1,20 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <myheader></myheader>
+    <img src="./assets/nakaya.png" width="300" height="300">
     <router-view/>
     <button class="btn btn-primary">test</button>
   </div>
 </template>
 
 <script>
+import myheader from './components/myheader'
+
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    myheader
+  }
 }
 </script>
 
