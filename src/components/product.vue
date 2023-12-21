@@ -20,7 +20,7 @@
             </div><br>
             <div class="row">
                 <div class="col-sm-4">
-                    <p style="font-size: 18px; margin-bottom: 5px;">PacketStreet</p>
+                    <p style="font-size: 18px; margin-bottom: 5px;">~ネットワーク可視化ツール~ Packet Street</p>
                     <router-link to="/product/sample">
                         <img src="@/assets/packetstreet.png" class="img-responsive" style="width:80%" alt="Image">
                     </router-link>
@@ -36,7 +36,7 @@
             </div><br>
             <div class="row">
                 <div class="col-sm-4">
-                    <p style="font-size: 18px; margin-bottom: 5px;">LoRaに対話システム</p>
+                    <p style="font-size: 18px; margin-bottom: 5px;">LoRaによる対話システム</p>
                     <router-link to="/product/sample">
                         <img src="@/assets/busstop.png" class="img-responsive" style="width:85%" alt="Image">
                     </router-link>
