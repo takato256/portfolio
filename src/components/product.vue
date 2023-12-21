@@ -6,16 +6,16 @@
                 <div class="col-sm-4">
                     <p>Some text..</p>
                     <router-link to="/product/sample">
-                        <img src="@/assets/nakaya.png" class="img-responsive" style="width:65%" alt="Image">
+                        <img src="@/assets/sechack.png" class="img-responsive" style="width:65%" alt="Image">
                     </router-link>
                 </div>
                 <div class="col-sm-4">
                     <p>Some text..</p>
-                    <img src="@/assets/nakaya.png" class="img-responsive" style="width:65%" alt="Image">
+                    <img src="@/assets/projectkit.png" class="img-responsive" style="width:65%" alt="Image">
                 </div>
                 <div class="col-sm-4">
                     <p>Some text..</p>
-                    <img src="@/assets/nakaya.png" class="img-responsive" style="width:65%" alt="Image">
+                    <img src="@/assets/funny_certificate.png" class="img-responsive" style="width:65%" alt="Image">
                 </div>
             </div>
         </div><br>
