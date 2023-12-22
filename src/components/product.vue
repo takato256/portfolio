@@ -10,7 +10,7 @@
                     </router-link>
                 </div>
                 <div class="col-sm-4">
-                    <p style="font-size: 18px; margin-bottom: 5px;">CNN可視化WEbサイト</p>
+                    <p style="font-size: 18px; margin-bottom: 5px;">CNN可視化WEBサイト</p>
                     <img src="@/assets/cnn.png" class="img-responsive" style="width:80%" alt="Image">
                 </div>
                 <div class="col-sm-4">
