@@ -5,7 +5,7 @@ import home from '@/components/home'
 import career from '@/components/career'
 import product from '@/components/product'
 import skill from '@/components/skill'
-import sample from '@/components/sample'
+import commingsoon from '@/components/commingsoon'
 
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
@@ -31,9 +31,9 @@ export default new Router({
       component: product
     },
     {
-      path: '/product/sample',
-      name: 'sample',
-      component: sample
+      path: '/product/commingsoon',
+      name: 'commingsoon',
+      component: commingsoon
     },
     {
       path: '/skill',
