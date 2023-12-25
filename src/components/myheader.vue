@@ -3,7 +3,7 @@
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div class="mx-auto d-flex">
           <div class="navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav">
+            <ul class="navbar-nav flex-row">
               <li class="nav-item">
                 <router-link class="text-white px-3" to="/">Home</router-link>
               </li>
